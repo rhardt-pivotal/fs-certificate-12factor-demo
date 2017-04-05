@@ -27,7 +27,7 @@ public class CertVerifier {
 export CERT_CONTENTS="-----BEGIN CERTIFICATE-----
 MIIGQDCCBCigAwIBAgICEAQwDQYJKoZIhvcNAQELBQAwbjELMAkGA1UEBhMCVVMx
 DjAMBgNVBAgMBVRleGFzMQ8wDQYDVQQKDAZyaGFyZHQxCzAJBgNVBAsMAml0MQ8w
-etc.etc.-----END CERTIFICATE-----
+etc.etc.-----END CERTIFICATE-----"
 
 ./mvnw clean package
 ./run.sh
